@@ -83,3 +83,6 @@ https://remix.ethereum.org/
 15. Submit the transaction hash to [Analog Testnet](https://testnet.analog.one/#/?signup&referral=MCFIAH).
 
 *Verification on Analog may be delayed. If you encounter an error, wait 30 minutes and try verifying again.
+
+## THANKS TO
+[HAPPY CUAN](https://t.me/HappyCuanAirdrop) FOR MAKE THIS TUTORIALS POSSIBLE!
