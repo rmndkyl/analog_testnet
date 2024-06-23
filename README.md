@@ -1,6 +1,10 @@
 ## ANALOG_TESTNET
 Follow this tutorial to Complete GMP gateway contract on Sepolia and Shibuya
 
+## Faucet
+1. [Shibuya Faucet](https://portal.astar.network/shibuya-testnet/assets)
+
+Connect your EVM Wallet then request the faucet. 
 
 ## Send a message using a GMP gateway contract on Sepolia Testnet (Daily)
 
