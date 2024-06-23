@@ -30,16 +30,16 @@ https://remix.ethereum.org/
 11. Paste the Gateway Address into the "At Address" field, then click the "At Address" button.
 
 12. Check the details under the "Deployed/Unpinned Contracts" section. Click the details of the `submitMessage` function and fill in the following details:
-    ➖ destinationAddress: Enter the address of the contract created on Sepolia.
-    ➖ destinationNetwork: `7`
-    ➖ executionGasLimit: `30000`
-    ➖ data: `0x01`
+    1. destinationAddress: Enter the address of the contract created on Sepolia.
+    2. destinationNetwork: `7`
+    3. executionGasLimit: `30000`
+    4. data: `0x01`
 
-13. Click "transact," confirm the pop-up in your wallet, and wait for the transaction to succeed.
+14. Click "transact," confirm the pop-up in your wallet, and wait for the transaction to succeed.
 
-14. Check the terminal in Remix, copy the transaction hash, and verify it on [Sepolia Blockscout](https://eth-sepolia.blockscout.com/).
+15. Check the terminal in Remix, copy the transaction hash, and verify it on [Sepolia Blockscout](https://eth-sepolia.blockscout.com/).
 
-15. Submit the transaction hash to [Analog Testnet](https://testnet.analog.one/#/?signup&referral=MCFIAH).
+16. Submit the transaction hash to [Analog Testnet](https://testnet.analog.one/#/?signup&referral=MCFIAH).
 
 *Verification on Analog may be delayed. If you encounter an error, wait 30 minutes and try verifying again.
 
@@ -71,10 +71,10 @@ https://remix.ethereum.org/
 11. Paste the Gateway Address into the "At Address" field, then click the "At Address" button.
 
 12. Check the details under the "Deployed/Unpinned Contracts" section. Click the details of the `submitMessage` function and fill in the following details:
-    ➖ destinationAddress: Enter the address of the contract created on Shibuya.
-    ➖ destinationNetwork: `5`
-    ➖ executionGasLimit: `30000`
-    ➖ data: `0x01`
+    1. destinationAddress: Enter the address of the contract created on Shibuya.
+    2. destinationNetwork: `5`
+    3. executionGasLimit: `30000`
+    4. data: `0x01`
 
 13. Click "transact," confirm the pop-up in your wallet, and wait for the transaction to succeed.
 
