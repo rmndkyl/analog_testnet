@@ -35,7 +35,7 @@ https://remix.ethereum.org/
 
 12. Check the details under the "Deployed/Unpinned Contracts" section. Click the details of the `submitMessage` function and fill in the following details:
     1. destinationAddress: Enter the address of the contract created on Sepolia.
-    2. destinationNetwork: `7`
+    2. destinationNetwork: `5`
     3. executionGasLimit: `30000`
     4. data: `0x01`
 
@@ -76,7 +76,7 @@ https://remix.ethereum.org/
 
 12. Check the details under the "Deployed/Unpinned Contracts" section. Click the details of the `submitMessage` function and fill in the following details:
     1. destinationAddress: Enter the address of the contract created on Shibuya.
-    2. destinationNetwork: `5`
+    2. destinationNetwork: `7`
     3. executionGasLimit: `30000`
     4. data: `0x01`
 
